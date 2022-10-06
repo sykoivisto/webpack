@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a basic setup for webpack. Although it is not my first time using Webpack, this is my first time formally learning it- digging deep and understanding the official documentation, as well as the guide from [The Odin Project](https://www.theodinproject.com/).
+This is a basic setup for webpack. Although it is not my first time using Webpack or ES6 modules, this is my first time formally learning to use these tools- digging deep and understanding the official documentation, as well as the guide from [The Odin Project](https://www.theodinproject.com/).
 
 ## Credits
 
