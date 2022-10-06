@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./WG_QuickHand.woff') format('woff');
+}
+
+
+.hello {
+    color: red;
+    font-family: 'MyFont';
+    background: url('./640px-Felis_catus-cat_on_snow.jpg');
+}
